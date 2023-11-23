@@ -4,4 +4,4 @@
 # Git and GitHub Tutorial
 
 * [git](https://github.com/c4clouds/git-tutorials/blob/main/git.md)
-* [github](https://github.com/c4clouds/git-tutorial/blob/master/github.md)
+* [github](https://github.com/c4clouds/git-tutorials/blob/main/github.md)
